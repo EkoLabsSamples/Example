@@ -17,22 +17,6 @@
     "sentry": {
       "mode": "production"
     },
-        "outline": {
-            "nodes": {
-                  "node_beginning_665f91":
-          {
-                        "name": "Beginning",
-            "title": "",
-            "summary": ""          } ,                   "node_to_be_aea4d7":
-          {
-                        "name": "To Be",
-            "title": "",
-            "summary": ""          } ,                   "node_not_to_be_53fe9b":
-          {
-                        "name": "Not To Be",
-            "title": "",
-            "summary": ""          }                    }
-    },
         "analytics": {}
 
   },
